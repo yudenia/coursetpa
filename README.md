@@ -1,1 +1,1 @@
-# https://github.com/BuildingXwithJS/building-products-with-js.git
+This repository contains code and related materials for TPA Course.
